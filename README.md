@@ -1,1 +1,2 @@
 # odin-recipes
+For this project, I used what I learned about links, images, and html to create a recipe website. I created an index.html file as the homepage. Then, utilizing my new knowledge about file structure I created the folders img and recipes, for images and recipes, respectively. In the recipes folder I included three html files for three different recipes. For each recipe I made the title the biggest using an h1 tag. Additionally I included an image from the img folder and three h3 tags as titles for the description, ingredients, and instructions. 
